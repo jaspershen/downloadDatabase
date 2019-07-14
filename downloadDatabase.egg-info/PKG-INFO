@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: downloadDatabase
+Version: 0.0.2
+Summary: This module can be used to download HMDB and KEGG database.
+Home-page: https://github.com/jaspershen/downloadDatabase
+Author: Xiaotao Shen
+Author-email: shenxt1990@163.com
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Description-Content-Type: text/markdown
