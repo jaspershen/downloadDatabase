@@ -9,7 +9,7 @@ setup(name='downloadDatabase',
       url='https://github.com/jaspershen/downloadDatabase',
       long_description_content_type="text/markdown",
       packages=find_packages(),
-      install_requires=['requests', 'pandas', 'bs4', 'lxml', 're', 'numpy'],
+      install_requires=['requests', 'pandas', 'bs4', 'lxml', 'numpy'],
       classifiers=[
             'Programming Language :: Python :: 3.6',
             'Programming Language :: Python :: 3.7'

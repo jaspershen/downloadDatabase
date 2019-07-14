@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 import requests
 import pandas as pd
 import lxml as lxml
-import re as re
+import re
 import numpy as np
 
 
